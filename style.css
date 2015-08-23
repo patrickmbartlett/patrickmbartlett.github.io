@@ -25,6 +25,7 @@ button
 	color: orange;
 	width: 100px;
 	height: 100px;
+	background-color: black;
 }
 
 table
@@ -33,6 +34,8 @@ table
 	font-family: verdana;
 	width: 50px;
 	height: 50px;
+	border: 50px;
+
 }
 td
 {
