@@ -1,15 +1,20 @@
 h1
 {
 	color: blue;
+}
 
 p
 {
 	height:100px;
 	color:#yellow;
-
 }
 
 body
 {
 	background-color:purple;
+}
+
+button
+{
+	color: orange;
 }
