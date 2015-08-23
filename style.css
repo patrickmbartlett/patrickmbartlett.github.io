@@ -5,16 +5,37 @@ h1
 
 p
 {
-	height:100px;
-	color:#yellow;
+	height: 100px;
+	color: yellow;
+}
+
+a
+{
+	font: verdana;
+	border-color: transparent;
 }
 
 body
 {
-	background-color:purple;
+	background-color: green;
 }
 
 button
 {
 	color: orange;
+	width: 100px;
+	height: 100px;
+}
+
+table
+{
+	font-size: 100px;
+	font-family: verdana;
+	width: 50px;
+	height: 50px;
+}
+td
+{
+	height: 25px;
+	width: 25px;
 }
