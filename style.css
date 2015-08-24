@@ -1,3 +1,9 @@
+html,body
+{
+	margin:0;
+	padding:0;
+}
+
 h1
 {
 	color: blue;
@@ -26,6 +32,8 @@ button
 	width: 100px;
 	height: 100px;
 	background-color: black;
+	border: 0;
+	padding: 0;
 }
 
 table
@@ -52,4 +60,9 @@ th
 tr
 {
 	font-size: 10px;
+}
+
+.genius 
+{
+	font-size: 500px;
 }
