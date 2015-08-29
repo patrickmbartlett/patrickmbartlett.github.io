@@ -23,7 +23,7 @@ a
 
 body
 {
-	background-color: green;
+	background-color: white;
 }
 
 button
@@ -62,13 +62,15 @@ tr
 	font-size: 10px;
 }
 
-.genius 
+#genius 
 {
 	font-size: 500px;
+	color: green;
 }
 
-#Form_box
+.Form_box
 {
 	height:50px;
 	width:20px;
+	color:blue;
 }
