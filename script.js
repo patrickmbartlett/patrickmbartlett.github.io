@@ -1,4 +1,4 @@
-var genius = document.getElementById('genius');
+var genius = document.getElementById("genius");
 
 genius.onclick = function() {
 
