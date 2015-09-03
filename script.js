@@ -1,1 +1,7 @@
-alert("hello world");
+var genius = document.getElementById('genius');
+
+genius.onclick = function() {
+
+	genius.innerHTML = "alakazaam";
+};
+
